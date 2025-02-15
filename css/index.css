@@ -4,7 +4,6 @@ body {
 
 .content {
     flex-direction: column;
-    color: #009efd;
 }
 
 .content>div {
